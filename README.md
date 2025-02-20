@@ -1,6 +1,6 @@
 # Corne ZMK config
 
-## Resources
+## Resourcesv
 - [Default corne config](https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/corne/corne.conf)
 - [Corne Cherry v3 build guide](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_en.md)
 - [CORNE BUILD GUIDE by devpew](https://devpew.com/blog/corne-eng/)
